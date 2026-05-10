@@ -1,0 +1,9 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion,numero_pista
+dd001,La Cañaguatera,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,4:15,1
+dd002,El Cantor de Fonseca,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,3:58,2
+dd003,Tres Canciones,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,4:32,3
+dd004,Mi Primera Cana,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,3:47,4
+dd005,El Condor,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,4:10,5
+dd006,A Mi Manera,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,3:55,6
+dd007,Ausencia Sentimental,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,4:20,7
+dd008,El Querer No Tiene Nombre,1988,Diomedes Díaz,images/diomedes_el_cacique.jpg,Vallenato,3:38,8

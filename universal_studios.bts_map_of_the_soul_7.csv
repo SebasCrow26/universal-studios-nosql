@@ -1,0 +1,9 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion,numero_pista
+bts001,ON,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-pop,4:06,1
+bts002,Black Swan,2020,BTS,images/bts_map_of_the_soul_7.jpg,Art pop,3:44,2
+bts003,Filter,2020,BTS,images/bts_map_of_the_soul_7.jpg,Latin pop,3:41,3
+bts004,Ego,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-pop,3:15,4
+bts005,Interlude: Shadow,2020,BTS,images/bts_map_of_the_soul_7.jpg,Hip-hop,3:42,5
+bts006,Moon,2020,BTS,images/bts_map_of_the_soul_7.jpg,Pop,3:11,6
+bts007,Inner Child,2020,BTS,images/bts_map_of_the_soul_7.jpg,Pop rock,3:57,7
+bts008,We are Bulletproof: the Eternal,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-pop,4:03,8

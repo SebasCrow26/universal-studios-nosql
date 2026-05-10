@@ -1,0 +1,9 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion,numero_pista
+iq001,Quiero Bailar,2003,Ivy Queen,images/ivy_queen_diva.jpg,Reggaeton,3:52,1
+iq002,Yo Quiero Saber,2003,Ivy Queen,images/ivy_queen_diva.jpg,Reggaeton,3:40,2
+iq003,Pa' la Cama Voy,2003,Ivy Queen,images/ivy_queen_diva.jpg,Reggaeton,3:28,3
+iq004,Dime,2003,Ivy Queen,images/ivy_queen_diva.jpg,Dancehall,3:55,4
+iq005,Ese Hombre,2003,Ivy Queen,images/ivy_queen_diva.jpg,R&B,4:10,5
+iq006,Cuéntame,2003,Ivy Queen,images/ivy_queen_diva.jpg,Reggaeton,3:33,6
+iq007,Sola,2003,Ivy Queen,images/ivy_queen_diva.jpg,Reggaeton,3:47,7
+iq008,Tengo que Decirte Algo,2003,Ivy Queen,images/ivy_queen_diva.jpg,Ballad,4:02,8

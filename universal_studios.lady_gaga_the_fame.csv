@@ -1,0 +1,9 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion,numero_pista
+lg001,Just Dance,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Dance-pop,4:02,1
+lg002,LoveGame,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Dance-pop,3:34,2
+lg003,Poker Face,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Synth-pop,3:57,3
+lg004,Eh Eh (Nothing Else I Can Say),2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,3:14,4
+lg005,Paparazzi,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Synth-pop,3:29,5
+lg006,Beautiful Dirty Rich,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Dance-pop,3:13,6
+lg007,The Fame,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Electropop,3:41,7
+lg008,Boys Boys Boys,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,3:22,8

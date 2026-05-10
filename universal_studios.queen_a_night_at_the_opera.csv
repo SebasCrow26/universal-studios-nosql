@@ -1,0 +1,9 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion,numero_pista
+q001,Death on Two Legs,1975,Queen,images/queen_a_night_at_the_opera.jpg,Hard rock,3:43,1
+q002,You're My Best Friend,1975,Queen,images/queen_a_night_at_the_opera.jpg,Pop rock,2:52,2
+q003,39,1975,Queen,images/queen_a_night_at_the_opera.jpg,Acoustic rock,3:30,3
+q004,Love of My Life,1975,Queen,images/queen_a_night_at_the_opera.jpg,Ballad,3:38,4
+q005,Bohemian Rhapsody,1975,Queen,images/queen_a_night_at_the_opera.jpg,Progressive rock,5:55,5
+q006,The Prophet's Song,1975,Queen,images/queen_a_night_at_the_opera.jpg,Progressive rock,8:21,6
+q007,Good Company,1975,Queen,images/queen_a_night_at_the_opera.jpg,Dixieland,3:25,7
+q008,God Save the Queen,1975,Queen,images/queen_a_night_at_the_opera.jpg,Classical,1:11,8
