@@ -133,4 +133,4 @@ universal-studios-nosql/
 
 ---
 
-*Workshop completed by: Sebastián Ramos, Miguel Moreno, Santiago Sandoval.| Group [#] — Universal Studios Colombia | NoSQL Databases*
+*Workshop completed by: Sebastián Ramos, Miguel Moreno, Santiago Sandoval.| Universal Studios Colombia | NoSQL Databases*
